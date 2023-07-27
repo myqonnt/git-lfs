@@ -1,4 +1,0 @@
-[lfs]
-	url = http://127.0.0.1:25815/analyst-test/git-lfs
-[lfs "http://127.0.0.1:25815/analyst-test/git-lfs"]
-	locksverify = true
